@@ -1,0 +1,2 @@
+CREATENEMYSAMPLE1.png|CreatEnemySample1.png
+CREATENEMYSAMPLE2.png|CreatEnemySample2.png

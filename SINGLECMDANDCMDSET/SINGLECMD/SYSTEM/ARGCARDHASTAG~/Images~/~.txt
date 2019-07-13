@@ -1,0 +1,4 @@
+ARGCARDHASTAG.png|ArgCardHasTag.png
+ARGCARDHASTAGSAMPLE2.png|ArgCardHasTagSample2.png
+GET-ARGSAMPLE1.png|get-argSample1.png
+GET-ARGSAMPLE2.png|get-argSample2.png

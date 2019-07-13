@@ -1,0 +1,2 @@
+ARGISCARDSAMPLE1.png|ArgIsCardSample1.png
+ARGISCARDSAMPLE2.png|ArgIsCardSample2.png

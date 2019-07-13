@@ -1,0 +1,9 @@
+/*块引用*/
+blockquote {
+    color: lightgray;                /*前景色：浅灰色*/
+    margin: 0;                       /*外间距：无*/
+    padding-left: 0.5em;             /*左内间距：0.5字符尺寸*/
+    border-left: 0.5em #4d70d2 solid;  /*左边框：0.5字符尺寸，白色，实线*/
+    text-indent: 2em;                /*文本缩进：2字符尺寸*/
+    background-color: #514A4A;       /*背景色：深灰色*/
+}

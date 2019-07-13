@@ -1,0 +1,51 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=TetraProjectDoc.chm
+Contents file=TetraProjectDoc.hhc
+Default Font=新宋体,11,1
+Default Window=LunarWin
+Default topic=_Index.html
+Display compile progress=Yes
+Full-text search=Yes
+Index file=TetraProjectDoc.hhk
+Language=0x804 中文(简体，中国)
+Title=原石计划 code 文档 0.1 版
+
+[WINDOWS]
+LunarWin="原石计划 code 文档 0.1 版","TetraProjectDoc.hhc","TetraProjectDoc.hhk","_TetraProjectDoc.html","_TetraProjectDoc.html","_Index.html","回目录",,,0x23520,,0x4306e,,,,,,,,0
+
+
+[FILES]
+_Index.html
+Images~\header_icon_dark.png
+Images~\header_icon_light.png
+Images~\comment_dark.png
+Images~\comment_light.png
+Images~\region_e_dark.png
+Images~\region_e_light.png
+Images~\region_i_dark.png
+Images~\region_i_light.png
+Images~\region_q_dark.png
+Images~\region_q_light.png
+Images~\region_w_dark.png
+Images~\region_w_light.png
+Images~\menu_light.png
+Images~\menu_dark.png
+Images~\theme_switcher.png
+jquery-1.7.0.min.js
+menu_dark.js
+menu_light.js
+lesson_dark.css
+lesson_light.css
+menu_dark.css
+menu_light.css
+presentation_dark.css
+presentation_light.css
+custom_lesson_dark.css
+custom_lesson_light.css
+custom_menu_dark.css
+custom_menu_light.css
+custom_presentation_dark.css
+custom_presentation_light.css
+
+[INFOTYPES]

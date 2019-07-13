@@ -1,0 +1,2 @@
+MULTIPLYSAMPLE1.png|MultiplySample1.png
+MULTIPLYSAMPLE2.png|MultiplySample2.png

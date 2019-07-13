@@ -1,0 +1,2 @@
+CREATENEUTRALCHARACTERSAMPLE1.png|CreateNeuTralCharacterSample1.png
+CREATENEUTRALCHARACTERSAMPLE2.png|CreateNeutralCharacterSample2.png

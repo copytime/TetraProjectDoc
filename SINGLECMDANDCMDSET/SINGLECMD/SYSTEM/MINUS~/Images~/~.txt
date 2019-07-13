@@ -1,0 +1,3 @@
+MINUSSAMPLE1.png|MinusSample1.png
+MINUSSAMPLE2.png|MinusSample2.png
+MINUSSAMPLE2.png|MinusSample2.png

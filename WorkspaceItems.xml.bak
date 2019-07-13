@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Item Title="原石计划 code 文档 0.1 版" Path="" StatuHeader="[-]" StatuTail="" IsExpanded="true" Tooltip="" ItemType="Folder" IsHomePage="False">
+  <Item Title="变量" Path="VARIABLE\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False" />
+  <Item Title="事件" Path="EVENT\" StatuHeader="" StatuTail="" IsExpanded="false" IsSelected="true" Tooltip="" ItemType="Folder" IsHomePage="False" />
+  <Item Title="单一指令和指令组" Path="SINGLECMDANDCMDSET\" StatuHeader="" StatuTail="" IsExpanded="true" Tooltip="" ItemType="Folder" IsHomePage="False">
+    <Item Title="单一指令" Path="SINGLECMDANDCMDSET\SINGLECMD\" StatuHeader="" StatuTail="" IsExpanded="true" Tooltip="" ItemType="Folder" IsHomePage="False">
+      <Item Title="系统类（System）" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Folder" IsHomePage="False">
+        <Item Title="Plus 和 +" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\PLUS.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\PLUS~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="PlusSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\PLUS~\Images~\PLUSSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="PlusSample2.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\PLUS~\Images~\PLUSSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="get_arg0，get_arg1，get_arg2 和 get_arg3" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GET-ARG0123.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GET-ARG0123~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="get-argSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GET-ARG0123~\Images~\GET-ARGSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="get-argSample2.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GET-ARG0123~\Images~\GET-ARGSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="get_cardId" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GET-CARDID.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GET-CARDID~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="get-cardIdSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GET-CARDID~\Images~\GET-CARDIDSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="get_isDied" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GET-ISDIED.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="get_selectedPosition" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GET-SELECTEDPOSITION.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="get_user" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GET-USER.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GET-USER~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="get-userSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GET-USER~\Images~\GET-USERSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="get_userPosition" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GET-USERPOSITION.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="SpreadRun 和 Sprd" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\SPREADRUN.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\SPREADRUN~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="SprdSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\SPREADRUN~\Images~\SPRDSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="RunCard，Attr 和 RunCards" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\RUNCARD.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\RUNCARD~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="RunCardSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\RUNCARD~\Images~\RUNCARDSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="IsTeammateOf" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ISTEAMMATEOF.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ISTEAMMATEOF~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="IsTeammateOfSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ISTEAMMATEOF~\Images~\ISTEAMMATEOFSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="IsSameTeamWith" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ISSAMETEAMWITH.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ISSAMETEAMWITH~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="IsSameTeamWithSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ISSAMETEAMWITH~\Images~\ISSAMETEAMWITHSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="IsEnemyOf" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ISENEMYOF.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="GetClosestTeammate" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GETCLOSESTTEAMMATE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="Die" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\DIE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="Revive" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\REVIVE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="Repeat" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\REPEAT.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\REPEAT~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="RepeatSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\REPEAT~\Images~\REPEATSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="SelectCardToDestroyForever" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\SELECTCARDTODESTROYFOREVER.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\SELECTCARDTODESTROYFOREVER~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="SelectCardToDestroyForeverSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\SELECTCARDTODESTROYFOREVER~\Images~\SELECTCARDTODESTROYFOREVERSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="SelectCardToDestroyForeverSample2.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\SELECTCARDTODESTROYFOREVER~\Images~\SELECTCARDTODESTROYFOREVERSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="SelectCardToDestroyForeverSample3.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\SELECTCARDTODESTROYFOREVER~\Images~\SELECTCARDTODESTROYFOREVERSAMPLE3.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="SerialRun" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\SERIALRUN.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="ShowEffect" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\SHOWEFFECT.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="Minus 和 -" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\MINUS.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\MINUS~\Images~\" StatuHeader="" StatuTail="" IsExpanded="true" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="MinusSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\MINUS~\Images~\MINUSSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="MinusSample2.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\MINUS~\Images~\MINUSSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="Multiply 和 *" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\MULTIPLY.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\MULTIPLY~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="MultiplySample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\MULTIPLY~\Images~\MULTIPLYSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="MultiplySample2.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\MULTIPLY~\Images~\MULTIPLYSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="Divide 和 /" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\DIVIDE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\DIVIDE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="DivideSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\DIVIDE~\Images~\DIVIDESAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="DivideSample2.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\DIVIDE~\Images~\DIVIDESAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="GreaterThan 和 &gt;" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GREATERTHAN.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="LessThan 和 &lt;" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\LESSTHAN.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="GreaterThanOrEqualTo 和 &gt;=" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GREATERTHANOREQUALTO.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="LessThanOrEqualTo 和 &lt;=" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\LESSTHANOREQUALTO.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="EqualTo 和 ==" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\EQUALTO.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="NotEqualTo" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\NOTEQUALTO.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="GetPercent" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GETPERCENT.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GETPERCENT~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="GetPercentSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\GETPERCENT~\Images~\GETPERCENTSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="If" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\IF.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\IF~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="IfSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\IF~\Images~\IFSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="IfSample2.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\IF~\Images~\IFSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="Else" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ELSE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ELSE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="ElseSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ELSE~\Images~\ELSESAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="ElseSample2.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ELSE~\Images~\ELSESAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="IfNot" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\IFNOT.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="And" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\AND.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\AND~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="AndSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\AND~\Images~\ANDSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="Or" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\OR.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\OR~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="OrSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\OR~\Images~\ORSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="ArgCardHasTag" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ARGCARDHASTAG.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ARGCARDHASTAG~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="ArgCardHasTag.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ARGCARDHASTAG~\Images~\ARGCARDHASTAG.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="ArgCardHasTagSample2.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ARGCARDHASTAG~\Images~\ARGCARDHASTAGSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="get-argSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ARGCARDHASTAG~\Images~\GET-ARGSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="get-argSample2.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ARGCARDHASTAG~\Images~\GET-ARGSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="ArgIsCard 和 IfArgIsCard" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ARGISCARD.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ARGISCARD~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="ArgIsCardSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ARGISCARD~\Images~\ARGISCARDSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="ArgIsCardSample2.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\ARGISCARD~\Images~\ARGISCARDSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="ApplierIsTeammate" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\APPLIERISTEAMMATE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\APPLIERISTEAMMATE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="ApplierIsTeammateSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\APPLIERISTEAMMATE~\Images~\APPLIERISTEAMMATESAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="Chance" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\CHANCE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\CHANCE~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="ChanceSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\CHANCE~\Images~\CHANCESAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="ChanceSample2.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\CHANCE~\Images~\CHANCESAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="CreateEnemy" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\CREATEENEMY.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\CREATEENEMY~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CreatEnemySample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\CREATEENEMY~\Images~\CREATENEMYSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CreatEnemySample2.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\CREATEENEMY~\Images~\CREATENEMYSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="CreateNeutralCharacter" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\CREATENEUTRALCHARACTER.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\CREATENEUTRALCHARACTER~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="CreateNeuTralCharacterSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\CREATENEUTRALCHARACTER~\Images~\CREATENEUTRALCHARACTERSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="CreateNeutralCharacterSample2.png" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\CREATENEUTRALCHARACTER~\Images~\CREATENEUTRALCHARACTERSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="CreateTeammate" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\CREATETEAMMATE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="DestroyThisCard" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\DESTROYTHISCARD.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="DestroyThisCardForever" Path="SINGLECMDANDCMDSET\SINGLECMD\SYSTEM\DESTROYTHISCARDFOREVER.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+      </Item>
+      <Item Title="Buff 类" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\" StatuHeader="" StatuTail="" IsExpanded="true" Tooltip="" ItemType="Folder" IsHomePage="False">
+        <Item Title="RemoveThisBuff" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\REMOVETHISBUFF.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\REMOVETHISBUFF~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="RemoveThisBuffSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\REMOVETHISBUFF~\Images~\REMOVETHISBUFFSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+            <Item Title="RemoveThisBuffSample2.png" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\REMOVETHISBUFF~\Images~\REMOVETHISBUFFSAMPLE2.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="RemoveRandomBuffByType" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\REMOVERANDOMBUFFBYTYPE.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="RemoveBuff" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\REMOVEBUFF.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\REMOVEBUFF~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="RemoveBuffSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\REMOVEBUFF~\Images~\REMOVEBUFFSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="RemoveAllBuffsByTag" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\REMOVEALLBUFFSBYTAG.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="RemoveAllBuffs" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\REMOVEALLBUFFS.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="MultiplyBuffCountBy" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\MULTIPLYBUFFCOUNTBY.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\MULTIPLYBUFFCOUNTBY~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="MultiplyBuffCountBySample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\MULTIPLYBUFFCOUNTBY~\Images~\MULTIPLYBUFFCOUNTBYSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="HasBuff" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\HASBUFF.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False" />
+        <Item Title="ConvertBuff" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\CONVERTBUFF.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\CONVERTBUFF~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="ConvertBuffSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\CONVERTBUFF~\Images~\CONVERTBUFFSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="BuffCount 和 GetBuffCount" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\BUFFCOUNT.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\BUFFCOUNT~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="BuffCountSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\BUFFCOUNT~\Images~\BUFFCOUNTSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+        <Item Title="AddBuff" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\ADDBUFF.md" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="File" IsHomePage="False">
+          <Item Title="图像~" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\ADDBUFF~\Images~\" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="ImageFolder" IsHomePage="False">
+            <Item Title="AddBuffSample1.png" Path="SINGLECMDANDCMDSET\SINGLECMD\BUFF\ADDBUFF~\Images~\ADDBUFFSAMPLE1.png" StatuHeader="" StatuTail="" IsExpanded="false" Tooltip="" ItemType="Image" IsHomePage="False" />
+          </Item>
+        </Item>
+      </Item>
+    </Item>
+  </Item>
+</Item>

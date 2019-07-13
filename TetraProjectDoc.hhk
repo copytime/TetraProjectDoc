@@ -1,0 +1,256 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!--Sitemap 1.0-->
+</HEAD><BODY>
+<OBJECT type="text /site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type = "text/sitemap">
+		<param name ="Name" value="目录">
+		<param name ="Local" value="_index.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="原石计划 code 文档 0.1 版">
+		<param name="Local" value="_TetraProjectDoc.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="变量">
+		<param name="Local" value="VARIABLE/_VARIABLE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="事件">
+		<param name="Local" value="EVENT/_EVENT.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="单一指令和指令组">
+		<param name="Local" value="SINGLECMDANDCMDSET/_SINGLECMDANDCMDSET.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="单一指令">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/_SINGLECMD.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="系统类（System）">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/_SYSTEM.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Plus 和 +">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/PLUS.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="get_arg0，get_arg1，get_arg2 和 get_arg3">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/GET-ARG0123.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="get_cardId">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/GET-CARDID.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="get_isDied">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/GET-ISDIED.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="get_selectedPosition">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/GET-SELECTEDPOSITION.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="get_user">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/GET-USER.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="get_userPosition">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/GET-USERPOSITION.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="SpreadRun 和 Sprd">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/SPREADRUN.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="RunCard，Attr 和 RunCards">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/RUNCARD.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="IsTeammateOf">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/ISTEAMMATEOF.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="IsSameTeamWith">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/ISSAMETEAMWITH.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="IsEnemyOf">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/ISENEMYOF.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="GetClosestTeammate">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/GETCLOSESTTEAMMATE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Die">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/DIE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Revive">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/REVIVE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Repeat">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/REPEAT.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="SelectCardToDestroyForever">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/SELECTCARDTODESTROYFOREVER.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="SerialRun">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/SERIALRUN.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ShowEffect">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/SHOWEFFECT.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Minus 和 -">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/MINUS.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Multiply 和 *">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/MULTIPLY.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Divide 和 /">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/DIVIDE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="GreaterThan 和 >">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/GREATERTHAN.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="LessThan 和 <">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/LESSTHAN.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="GreaterThanOrEqualTo 和 >=">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/GREATERTHANOREQUALTO.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="LessThanOrEqualTo 和 <=">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/LESSTHANOREQUALTO.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="EqualTo 和 ==">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/EQUALTO.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="NotEqualTo">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/NOTEQUALTO.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="GetPercent">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/GETPERCENT.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="If">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/IF.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Else">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/ELSE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="IfNot">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/IFNOT.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="And">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/AND.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Or">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/OR.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ArgCardHasTag">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/ARGCARDHASTAG.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ArgIsCard 和 IfArgIsCard">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/ARGISCARD.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ApplierIsTeammate">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/APPLIERISTEAMMATE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Chance">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/CHANCE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="CreateEnemy">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/CREATEENEMY.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="CreateNeutralCharacter">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/CREATENEUTRALCHARACTER.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="CreateTeammate">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/CREATETEAMMATE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="DestroyThisCard">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/DESTROYTHISCARD.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="DestroyThisCardForever">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/SYSTEM/DESTROYTHISCARDFOREVER.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Buff 类">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/BUFF/_BUFF.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="RemoveThisBuff">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/BUFF/REMOVETHISBUFF.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="RemoveRandomBuffByType">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/BUFF/REMOVERANDOMBUFFBYTYPE.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="RemoveBuff">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/BUFF/REMOVEBUFF.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="RemoveAllBuffsByTag">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/BUFF/REMOVEALLBUFFSBYTAG.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="RemoveAllBuffs">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/BUFF/REMOVEALLBUFFS.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="MultiplyBuffCountBy">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/BUFF/MULTIPLYBUFFCOUNTBY.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="HasBuff">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/BUFF/HASBUFF.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ConvertBuff">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/BUFF/CONVERTBUFF.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BuffCount 和 GetBuffCount">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/BUFF/BUFFCOUNT.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="AddBuff">
+		<param name="Local" value="SINGLECMDANDCMDSET/SINGLECMD/BUFF/ADDBUFF.html">
+		</OBJECT>
+</UL>
+</BODY></HTML>

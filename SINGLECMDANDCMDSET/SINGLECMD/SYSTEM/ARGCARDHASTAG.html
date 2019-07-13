@@ -1,0 +1,274 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<!-- saved from url=(0016)http://localhost -->
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8"/>
+<title>
+ArgCardHasTag</title>
+<meta name="info" content="ARGCARDHASTAG.md" >
+<meta name="viewport" content="width=device-width, user-scalable=yes" />
+<meta http-equiv="Content-Type" content="text/html;charset=gb18030">
+<link id='theme_link' rel="stylesheet" href="../../../lesson_dark.css" type="text/css">
+<link id='custom_theme_link' rel="stylesheet" href="../../../custom_lesson_dark.css" type="text/css">
+<script>
+function ShowPage()
+{
+document.getElementById('content').style.visibility = "visible";
+document.body.style.fontSize = 16+'px';
+}
+function HidePage()
+{
+document.getElementById('content').style.visibility = "hidden";
+}var theme_css_prefix = 'lesson_';var path_prefix = '../../../';
+function ShowImages()
+{
+    imgs = document.getElementsByTagName('img');
+    imgsnum = imgs.length;
+    for (imgi = 0; imgi < imgsnum; imgi++)
+    {
+        if ((typeof(imgs[imgi].src) == 'undefined' || imgs[imgi].src == '') &&
+             imgs[imgi].getAttribute('thissrc') != null)
+            imgs[imgi].src = imgs[imgi].getAttribute('thissrc');
+    }
+}
+
+function HideImages()
+{
+    imgs = document.getElementsByTagName('img');
+    imgsnum = imgs.length;
+    for (imgi = 0; imgi < imgsnum; imgi++)
+    {
+        if (typeof(imgs[imgi].src) != 'undefined' && imgs[imgi].src != '')
+            imgs[imgi].thissrc = imgs[imgi].getAttribute('src');
+            imgs[imgi].src = '';
+    }
+}
+
+function SwitchTheme()
+{
+    var css = document.getElementById('theme_link');
+    var custom_css = document.getElementById('custom_theme_link');
+    var menu_css = document.getElementById('menu_theme_link');
+    var custom_menu_css = document.getElementById('custom_menu_theme_link');
+    var url;
+    var custom_url;
+    var menu_url;
+    var custom_menu_url;
+    if (theme_css_prefix != 'presentation_'){ theme_css_prefix = 'lesson_' }
+    var theme = 'light';
+	if (/.*_dark.css$/.test(css.getAttribute('href'))) theme = 'dark';
+    if (theme == 'light')
+    {
+        url = path_prefix + theme_css_prefix + 'dark.css';
+        custom_url = path_prefix + 'custom_' + theme_css_prefix + 'dark.css';
+        menu_url = path_prefix + 'menu_dark.css';
+        custom_menu_url = path_prefix + 'custom_menu_dark.css';
+        window.name = 'dark';
+    }
+    else
+    {
+        url = path_prefix + theme_css_prefix + 'light.css';
+        custom_url = path_prefix + 'custom_' + theme_css_prefix + 'light.css';
+        menu_url = path_prefix + 'menu_light.css';
+        custom_menu_url = path_prefix + 'custom_menu_light.css';
+        window.name = 'light';
+    }
+    if (css) css.setAttribute('href', url);
+    if (custom_css) custom_css.setAttribute('href', custom_url);
+    if (menu_css) menu_css.setAttribute('href', menu_url);
+    if (custom_menu_css) custom_menu_css.setAttribute('href', custom_menu_url);
+}
+
+function LoadTheme(new_theme)
+{
+    var css = document.getElementById('theme_link');
+    var custom_css = document.getElementById('custom_theme_link');
+    var menu_css = document.getElementById('menu_theme_link');
+    var custom_menu_css = document.getElementById('custom_menu_theme_link');
+    var url;
+    var custom_url;
+    var menu_url;
+    var custom_menu_url;
+    if(theme_css_prefix != 'presentation_'){ theme_css_prefix = 'lesson_' }
+    var theme = 'light';
+	if (/.*_dark.css$/.test(css.getAttribute('href'))) theme = 'dark';
+    if (new_theme && new_theme != theme)
+    {
+        if (new_theme == 'dark')
+        {
+            url = path_prefix + theme_css_prefix + 'dark.css';
+            custom_url = path_prefix + 'custom_' + theme_css_prefix + 'dark.css';
+            menu_url = path_prefix + 'menu_dark.css';
+            custom_menu_url = path_prefix + 'custom_menu_dark.css';
+        }
+        else
+        {
+            url = path_prefix + theme_css_prefix + 'light.css';
+            custom_url = path_prefix + 'custom_' + theme_css_prefix + 'light.css';
+            menu_url = path_prefix + 'menu_light.css';
+            custom_menu_url = path_prefix + 'custom_menu_light.css';
+        }
+        if (css) css.setAttribute('href', url);
+        if (custom_css) custom_css.setAttribute('href', custom_url);
+        if (menu_css) menu_css.setAttribute('href', menu_url);
+        if (custom_menu_css) custom_menu_css.setAttribute('href', custom_menu_url);
+    }
+}
+
+function LoadUserSelectedTheme()
+{
+    if(window.name == 'dark' || window.name == 'light')
+    {
+    LoadTheme(window.name);
+    }
+}
+</script>
+</head>
+<body onLoad="ShowPage()">
+<p style="visibility: collapse;"><span id="__TOP_4E4ABC53-B143-46FF-93CF-F9381EAD8E14__" class="anchor"></span></p><div style="text-align:right"><span class="pageheader"></span><a onclick="print()" style="visibility: hidden"></a></div><div id="printArea"><p class='fileheader' id='file_header'>ArgCardHasTag</p><hr class="headerline"/><div id="content"><script src="../../../jquery-1.7.0.min.js"></script><script language="javascript">function print() {$("#printArea").jqprint({importCSS: true});}</script><script>function getHeight(){return document.body.scrollHeight;}</script><script>function copyChoiceQuestion(examDiv,questionTitleId,questionChoice0Id,questionChoice1Id,questionChoice2Id,questionChoice3Id)
+{
+var qTitle=document.getElementById(questionTitleId);
+var qChoiceText0="",qChoiceText1="",qChoiceText2="",qChoiceText3="";var qChoice0=document.getElementById(questionChoice0Id);
+if(qChoice0){ qChoiceText0="A." + qChoice0.innerText + "\r\n";}var qChoice1=document.getElementById(questionChoice1Id);
+if(qChoice1){ qChoiceText1="B." + qChoice1.innerText + "\r\n";}var qChoice2=document.getElementById(questionChoice2Id);
+if(qChoice2){ qChoiceText2="C." + qChoice2.innerText + "\r\n";}var qChoice3=document.getElementById(questionChoice3Id);
+if(qChoice3){ qChoiceText3="D." + qChoice3.innerText + "\r\n";}var ta = document.createElement('textarea');
+ta.value = qTitle.innerText + "\r\n" + qChoiceText0 + qChoiceText1 + qChoiceText2 + qChoiceText3 + "\r\n";
+examDiv.appendChild(ta);
+ta.select();
+document.execCommand("Copy");
+ta.style.display = 'none';
+alert('已复制');
+}
+</script><script>function copyFillBlankQuestion(examDiv,questionTitleId)
+{
+var qTitle=document.getElementById(questionTitleId);
+var ta = document.createElement('textarea');
+ta.value = qTitle.innerText + "\r\n";
+examDiv.appendChild(ta);
+ta.select();
+document.execCommand("Copy");
+ta.style.display = 'none';
+alert('已复制');
+}
+</script><table id="" border="0" cellspacing="0" class="square-block"><tbody border="0"><tr border="0"><td class="square-block-left"/><td class="square-block-content"><div>
+
+<div class="nav-links-list" style="text-indent:0px;">
+<p class="nav-paragraph">■ <a class="nav-action" href="../../../_TetraProjectDoc.html">原石计划 code 文档 0.1 版</a></p>
+<p class="nav-paragraph">└△ <a class="nav-action" href="../../_SINGLECMDANDCMDSET.html">单一指令和指令组</a></p>
+<p class="nav-paragraph">　└△ <a class="nav-action" href="../_SINGLECMD.html">单一指令</a></p>
+<p class="nav-paragraph">　　└△ <a class="nav-action" href="_SYSTEM.html">系统类（System）</a></p>
+<p class="nav-paragraph">　　　└◆ ArgCardHasTag</p>
+</div>
+
+</div></td><td class="square-block-right"/></tr></tbody></table>
+<h1 class='title' id='title1' title='点击展开/折叠'><span id='header_span1' class='header_span'>◇ </span>ArgCardHasTag 指令</h1><script>$(document).ready(function(){$("#title1").click(function(){$("#panel1").toggle();if($("#panel1").is(":hidden")){$("#header_span1").html('◆ ');}else{$("#header_span1").html('◇ ');}});});</script><div class='panel_title_h1' id='panel1'>
+<h2 class='title' id='title2' title='点击展开/折叠'><span id='header_span2' class='header_span'>◇ </span>描述</h2><script>$(document).ready(function(){$("#title2").click(function(){$("#panel2").toggle();if($("#panel2").is(":hidden")){$("#header_span2").html('◆ ');}else{$("#header_span2").html('◇ ');}});});</script><div class='panel_title_h2' id='panel2'>
+<p>判断事件传递的第一个参数的卡牌是否有指定 tag。</p>
+<p>参数为 tag 标签。</p>
+<p>返回布尔值。</p>
+<p>只可以和事件连用。详情参考 <code>事件</code>。</p>
+</div><h2 class='title' id='title3' title='点击展开/折叠'><span id='header_span3' class='header_span'>◇ </span>参数</h2><script>$(document).ready(function(){$("#title3").click(function(){$("#panel3").toggle();if($("#panel3").is(":hidden")){$("#header_span3").html('◆ ');}else{$("#header_span3").html('◇ ');}});});</script><div class='panel_title_h2' id='panel3'>
+<table><tr><th style="TEXT-ALIGN: center;">序号</th><th style="TEXT-ALIGN: center;">参数</th><th style="TEXT-ALIGN: center;">是否可选</th><th style="TEXT-ALIGN: center;">描述</th></tr><tr><td style="TEXT-ALIGN: center;">1</td>
+<td style="TEXT-ALIGN: center;">tag 标签</td>
+<td style="TEXT-ALIGN: center;">否</td>
+<td style="TEXT-ALIGN: center;">要判断的卡牌标签</td>
+</tr>
+</table>
+</div><h2 class='title' id='title4' title='点击展开/折叠'><span id='header_span4' class='header_span'>◇ </span>示例</h2><script>$(document).ready(function(){$("#title4").click(function(){$("#panel4").toggle();if($("#panel4").is(":hidden")){$("#header_span4").html('◆ ');}else{$("#header_span4").html('◇ ');}});});</script><div class='panel_title_h2' id='panel4'>
+<h3 class='title' id='title5' title='点击展开/折叠'><span id='header_span5' class='header_span'>◇ </span>excel-Card 表格</h3><script>$(document).ready(function(){$("#title5").click(function(){$("#panel5").toggle();if($("#panel5").is(":hidden")){$("#header_span5").html('◆ ');}else{$("#header_span5").html('◇ ');}});});</script><div class='panel_title_h3' id='panel5'>
+<table><tr><th style="TEXT-ALIGN: center;">参考列</th><th style="TEXT-ALIGN: center;">表头</th><th style="TEXT-ALIGN: center;">值</th></tr><tr><td style="TEXT-ALIGN: center;">A</td>
+<td style="TEXT-ALIGN: center;">id</td>
+<td style="TEXT-ALIGN: center;">150(请根据实际情况填写)</td>
+</tr>
+<tr><td style="TEXT-ALIGN: center;">B</td>
+<td style="TEXT-ALIGN: center;">displayName</td>
+<td style="TEXT-ALIGN: center;">测试Buff</td>
+</tr>
+<tr><td style="TEXT-ALIGN: center;">…略…</td>
+<td style="TEXT-ALIGN: center;">　</td>
+<td style="TEXT-ALIGN: center;">　</td>
+</tr>
+<tr><td style="TEXT-ALIGN: center;">M</td>
+<td style="TEXT-ALIGN: center;">code</td>
+<td style="TEXT-ALIGN: center;">MyCmdGroup:</td>
+</tr>
+<tr><td style="TEXT-ALIGN: center;">…略…</td>
+<td style="TEXT-ALIGN: center;">　</td>
+<td style="TEXT-ALIGN: center;">　</td>
+</tr>
+</table>
+<table><tr><th style="TEXT-ALIGN: center;">参考列</th><th style="TEXT-ALIGN: center;">表头</th><th style="TEXT-ALIGN: center;">值</th></tr><tr><td style="TEXT-ALIGN: center;">A</td>
+<td style="TEXT-ALIGN: center;">id</td>
+<td style="TEXT-ALIGN: center;">151(请根据实际情况填写)</td>
+</tr>
+<tr><td style="TEXT-ALIGN: center;">B</td>
+<td style="TEXT-ALIGN: center;">displayName</td>
+<td style="TEXT-ALIGN: center;">测试卡牌</td>
+</tr>
+<tr><td style="TEXT-ALIGN: center;">…略…</td>
+<td style="TEXT-ALIGN: center;">　</td>
+<td style="TEXT-ALIGN: center;">　</td>
+</tr>
+<tr><td style="TEXT-ALIGN: center;">M</td>
+<td style="TEXT-ALIGN: center;">code</td>
+<td style="TEXT-ALIGN: center;">AddBuff:150</td>
+</tr>
+<tr><td style="TEXT-ALIGN: center;">…略…</td>
+<td style="TEXT-ALIGN: center;">　</td>
+<td style="TEXT-ALIGN: center;">　</td>
+</tr>
+</table>
+</div><h3 class='title' id='title6' title='点击展开/折叠'><span id='header_span6' class='header_span'>◇ </span>excel-CardCommand 表格</h3><script>$(document).ready(function(){$("#title6").click(function(){$("#panel6").toggle();if($("#panel6").is(":hidden")){$("#header_span6").html('◆ ');}else{$("#header_span6").html('◇ ');}});});</script><div class='panel_title_h3' id='panel6'>
+<table><tr><th style="TEXT-ALIGN: center;">参考列</th><th style="TEXT-ALIGN: center;">表头</th><th style="TEXT-ALIGN: center;">值</th></tr><tr><td style="TEXT-ALIGN: center;">A</td>
+<td style="TEXT-ALIGN: center;">id</td>
+<td style="TEXT-ALIGN: center;">MyCmdGroup</td>
+</tr>
+<tr><td style="TEXT-ALIGN: center;">B</td>
+<td style="TEXT-ALIGN: center;">description</td>
+<td style="TEXT-ALIGN: center;">测试用的buff，如果受到 Debuff 就回复 1 点生命值</td>
+</tr>
+<tr><td style="TEXT-ALIGN: center;">…略…</td>
+<td style="TEXT-ALIGN: center;">　</td>
+<td style="TEXT-ALIGN: center;">　</td>
+</tr>
+<tr><td style="TEXT-ALIGN: center;">M</td>
+<td style="TEXT-ALIGN: center;">remapCode</td>
+<td style="TEXT-ALIGN: center;">evt.PreAddBuff:{If:{ArgCardHasTag:Debuff},{Heal:1}}</td>
+</tr>
+<tr><td style="TEXT-ALIGN: center;">…略…</td>
+<td style="TEXT-ALIGN: center;">　</td>
+<td style="TEXT-ALIGN: center;">　</td>
+</tr>
+</table>
+<p><strong>结果：当玩家拥有 <code>测试Buff</code> 这个Buff 的时候，每当玩家受到 Debuff 时都会回复 1 点 HP</strong></p>
+<img src="argcardhastag~/Images~/ARGCARDHASTAG.png" alt="ArgCardHasTag" />
+<p style="text-indent:0px;text-align:center;font-weight:bold;margin-top:0.2em;margin-bottom:1em;">图1 ArgCardHasTag</p>
+<img src="argcardhastag~/Images~/ARGCARDHASTAGSAMPLE2.png" alt="ArgCardHasTagSample2" />
+<p style="text-indent:0px;text-align:center;font-weight:bold;margin-top:0.2em;margin-bottom:1em;">图2 ArgCardHasTagSample2</p>
+</div></div><h2 class='title' id='title7' title='点击展开/折叠'><span id='header_span7' class='header_span'>◇ </span>注意</h2><script>$(document).ready(function(){$("#title7").click(function(){$("#panel7").toggle();if($("#panel7").is(":hidden")){$("#header_span7").html('◆ ');}else{$("#header_span7").html('◇ ');}});});</script><div class='panel_title_h2' id='panel7'>
+<ul>
+<li><code>ArgCardHasTag</code> 指令只能和事件连用！</li>
+</ul>
+
+</div></div><script>$(document).ready(function() {$('#file_header').click(function() {$('.panel_title_h1,.panel_title_h2,.panel_title_h3,.panel_title_h4,.panel_title_h5,.panel_title_h6').hide();});});</script><script>$(document).ready(function() {$('#file_header').dblclick(function() {$('.panel_title_h1,.panel_title_h2,.panel_title_h3,.panel_title_h4,.panel_title_h5,.panel_title_h6').show();});});</script><script></script></div><hr class="footline"/><div class="foot-comment-area"</div><div class="foot"><p id="author"></p></div><p style="margin-left:10px;margin-right:10px;text-indent:0px;"><a href="OR.html" alt="←">&lt; 前页</a> <a href="../../../_index.html" alt="Ctrl+I">回目录</a> <a href="ARGISCARD.html" alt="→">后页 &gt;</a></p></div>
+<script language="javascript" type="text/javascript">
+function onDocKeydown(e) {
+e = e || window.event;
+if(e.keyCode==37){　　　//快捷键 left
+window.location.href='OR.html';
+return;
+}
+if(e.ctrlKey && e.keyCode==73){　　　//快捷键 Ctrl+I 
+window.location.href='../../../_index.html';
+return;
+}
+if(e.keyCode==39){　　　//快捷键 right
+window.location.href='ARGISCARD.html';
+return;
+}
+}
+document.onkeydown=onDocKeydown;
+</script>
+
+<p style='text-indent:0;'><div><img id="theme_switcher" src="../../../images~/theme_switcher.png" onclick="SwitchTheme()"/></p><script>$(document).ready(LoadUserSelectedTheme());</script></body></html>
